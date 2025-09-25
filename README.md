@@ -36,7 +36,7 @@ Inspired by ICEYE’s mission, this demo simulates a **dashboard for managing a 
 
 **Links:**  
 - 🎨 [Figma Design](#) (placeholder)  
-- 💻 [GitHub Repository](#) (placeholder)  
+- 💻 [GitHub Repository]() (placeholder)  
 
 ---
 
@@ -55,7 +55,7 @@ Developed during my postgraduate UX Engineering course, this project demonstrate
 - Example of **enterprise-like application architecture** using modern frameworks.  
 
 **Links:**  
-- 💻 [GitHub Repository](#) (placeholder)  
+- 💻 [GitHub Repository](https://github.com/Lincoln-Araujo/user_system_admin)  
 
 ---
 
@@ -75,7 +75,7 @@ Agência Brasil is the official federal news agency in Brazil. I contributed to 
 
 **Links:**  
 - 🌍 [Website](https://agenciabrasil.ebc.com.br)  
-- 🎨 [Figma Design](https://www.figma.com/design/TGeswzQ7m1L4wQFX27afpe/Agencia-Gov-2.0?node-id=0-1&t=4Ll4zzGLD9l6HcdS-1)  
+- 🎨 [Figma Design](https://www.figma.com/design/hsDVBIzafTKMqrrcqR7G3G/Ag%C3%AAncia-Brasil---novo-tema?node-id=1015-2&t=gdcVx24D1m6alkg5-1)  
 
 ---
 
