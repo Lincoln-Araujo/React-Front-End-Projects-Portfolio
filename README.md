@@ -51,8 +51,8 @@ Developed during my postgraduate UX Engineering course, this project demonstrate
 **Highlights:**  
 - Implemented with **React Admin** on the front end, connected to a **custom Node.js + MongoDB backend**.  
 - Added **E2E tests** using Cypress to validate workflows like create, edit, and delete.  
-- Focused on usability and performance in forms and list views.  
-- Example of **enterprise-like application architecture** using modern frameworks.  
+- Practiced **integration of front-end frameworks with automated testing**, focusing on reliability of CRUD flows.  
+- Built as a learning project during my postgraduate certification to explore **React Admin and testing practices**.  
 
 **Links:**  
 - 💻 [GitHub Repository](https://github.com/Lincoln-Araujo/user_system_admin)  
